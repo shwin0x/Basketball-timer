@@ -60,6 +60,9 @@ p{
     font-size: 90px;
     font-weight: 400;
     margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 p{
