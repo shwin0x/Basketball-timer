@@ -67,3 +67,19 @@ p{
     margin: 0px;
     padding: 0px;
 }
+
+.counters{
+    width: 155px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    
+
+}
+
+.counterBtn{
+    background: none;
+    color: #9AABDB;
+    border:1px solid #9AABDB;
+    margin: 0px;
+}
